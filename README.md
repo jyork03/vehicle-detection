@@ -66,3 +66,5 @@ The dependencies include:
 * sklearn
 * scipy
 * skimage
+
+Then extract the zip files `vehicles.zip` and `non-vehicles.zip` to `vehicles/` and `non-vehicles/` 
